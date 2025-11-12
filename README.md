@@ -51,9 +51,9 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🏠 **[IPL Canary](iuran-warga-phi.vercel.app)** | Modern payment & fee management system for residential communities | React, TypeScript, FastAPI, MongoDB | 🚀 Active |
-| 📝 **[Note App](note-app-five-drab.vercel.app)** | Clean and intuitive note-taking application | JavaScript, React | ✅ Complete |
-| 🏨 **[Hotels Management](hotels-tugas-pemprograman1.vercel.app)** | Hotel booking and management system | TypeScript | ✅ Complete |
+| 🏠 **[IPL Canary](https://github.com/oren0115/fe-iplcannary)** | Modern payment & fee management system for residential communities | React, TypeScript, FastAPI, MongoDB | 🚀 Active |
+| 📝 **[Note App](https://github.com/oren0115/Note-App)** | Clean and intuitive note-taking application | JavaScript, React | ✅ Complete |
+| 🏨 **[Hotels Management](https://github.com/oren0115/Hotels-tugas-pemprograman1)** | Hotel booking and management system | TypeScript | ✅ Complete |
 
 </div>
 
