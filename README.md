@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/oren0115">
-    <img src="https://github.com/oren0115.png" width="140" style="border-radius: 50%; border: 3px solid #00F7F7; box-shadow: 0 0 25px #00F7F7;" alt="Avatar"/>
-  </a>
-  <br/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=INITIALIZING+NEURAL+LINK...;BUILDING+DECENTRALIZED+SYSTEMS...;SMART+CONTRACT+AUDITOR...;PYTHON+%7C+TS+%7C+SQL" alt="Typing SVG" />
 </div>
